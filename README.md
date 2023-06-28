@@ -1,5 +1,5 @@
 # WeChatVideoDownloader9
-WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微信视频号 短视频 高清海量下载
+WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微信视频号 短视频 高清海量下载 最后有用法
 
 视频号上，您看好的视频，可以任意下载，需要请联系作者 wkc19891 [基础版完全免费 可海量下载1w个视频]
 
@@ -19,3 +19,4 @@ WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微
 
 <img width="1356" alt="image" src="https://github.com/lap888/WeChatVideoDownloader9/assets/30146744/4d665f0d-30c4-4076-95b1-664fa38d30b3">
 
+![image](https://github.com/lap888/WeChatVideoDownloader9/assets/30146744/91ec30b6-cfed-4487-aa35-75ec01e3f6d3)
