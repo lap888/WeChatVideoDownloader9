@@ -1,7 +1,12 @@
 # WeChatVideoDownloader9
 WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微信视频号 短视频 高清海量下载 最后有用法
 
-视频号上，您看好的视频，可以任意下载，需要请联系作者 wkc19891 [基础版完全免费 可海量下载1w个视频 看完教程再加好友]
+视频号上，您看好的视频，可以任意下载，需要请联系作者 wkc19891 [可海量无限制下载个视频 看完教程再加好友]
+
+1. 加好友可以免费体验3次下载视频号视频
+2. github点了start可以免费体验10次视频号视频下载
+3. 包月20/月，不限制下载次数
+4. 按次付费 1-100 每个视频1元一次，100-500 每个视频0.5元一次，500以上0.1元一次
 
 视频地址:[http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGacpWqWZERQgdvj4A66ib61Hl8mDzaWqTA6xL3zOKRdibP5wEkZMxaiaMLbdUt1YKwnAY8J0jGCka9rDOpckWOQlG0nDTXLprkWhsVInheGv2GQ&token=xNChlCtdOp49fktSiaSOLB7YIaEMbJwKVTVEvLnFFslv2ojMeMUmRy98Yh6cq72w85vWRpdmmkVjiaLLbYbIm7WxnIBuiacNb8QTCCozQEU7b03932DwiaYYyQ&idx=1&a=1&adaptivelytrans=0&bizid=1023&dotrans=3071&hy=SH&m=d64ea110fdc1bdf458a0821c9b228cf3](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGacpWqWZERQgdvj4A66ib61Hl8mDzaWqTA6xL3zOKRdibP5wEkZMxaiaMLbdUt1YKwnAY8J0jGCka9rDOpckWOQlG0nDTXLprkWhsVInheGv2GQ&token=xNChlCtdOp49fktSiaSOLB7YIaEMbJwKVTVEvLnFFslv2ojMeMUmRy98Yh6cq72w85vWRpdmmkVjiaLLbYbIm7WxnIBuiacNb8QTCCozQEU7b03932DwiaYYyQ&idx=1&a=1&adaptivelytrans=0&bizid=1023&dotrans=3071&hy=SH&m=d64ea110fdc1bdf458a0821c9b228cf3)
 
