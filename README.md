@@ -8,7 +8,7 @@ WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微
 3. 包月20/月，不限下载次数
 4. 代下载 按次付费 每个视频0.5元一次
 5. 注意加载比较慢 最后有使用说明 超好用 超实用
-6. 长期维护 软件不抛锚 方向使用
+6. 长期维护 软件不抛锚 方便易用 操作简单
 
 视频地址:[http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGacpWqWZERQgdvj4A66ib61Hl8mDzaWqTA6xL3zOKRdibP5wEkZMxaiaMLbdUt1YKwnAY8J0jGCka9rDOpckWOQlG0nDTXLprkWhsVInheGv2GQ&token=xNChlCtdOp49fktSiaSOLB7YIaEMbJwKVTVEvLnFFslv2ojMeMUmRy98Yh6cq72w85vWRpdmmkVjiaLLbYbIm7WxnIBuiacNb8QTCCozQEU7b03932DwiaYYyQ&idx=1&a=1&adaptivelytrans=0&bizid=1023&dotrans=3071&hy=SH&m=d64ea110fdc1bdf458a0821c9b228cf3](http://wxapp.tc.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGacpWqWZERQgdvj4A66ib61Hl8mDzaWqTA6xL3zOKRdibP5wEkZMxaiaMLbdUt1YKwnAY8J0jGCka9rDOpckWOQlG0nDTXLprkWhsVInheGv2GQ&token=xNChlCtdOp49fktSiaSOLB7YIaEMbJwKVTVEvLnFFslv2ojMeMUmRy98Yh6cq72w85vWRpdmmkVjiaLLbYbIm7WxnIBuiacNb8QTCCozQEU7b03932DwiaYYyQ&idx=1&a=1&adaptivelytrans=0&bizid=1023&dotrans=3071&hy=SH&m=d64ea110fdc1bdf458a0821c9b228cf3)
 
