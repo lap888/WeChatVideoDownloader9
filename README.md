@@ -9,7 +9,6 @@ WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微
 4. 代下载 按次付费 每个视频0.5元一次
 5. 注意加载比较慢 最后有使用说明 超好用 超实用
 6. 长期维护 软件不抛锚 方便易用 操作简单
-7. 二期开发每日免费下载一个视频功能
 
 <img width="921" alt="image" src="https://github.com/lap888/WeChatVideoDownloader9/assets/30146744/cabc0bd8-69e2-49c1-bd01-79d1663aca0f">
 
