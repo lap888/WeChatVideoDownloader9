@@ -10,7 +10,7 @@ WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微
 5. 注意加载比较慢 最后有使用说明 超好用 超实用
 6. 长期维护 软件不抛锚 方便易用 操作简单
 7. 接微信视频号业务定制
-8. 每推荐1好友使用 赠送推荐人10积分
+8. 每推荐1好友体验使用 赠送推荐人5积分，好友包月充值，推荐人可获得10积分
 
 <img width="921" alt="image" src="https://github.com/lap888/WeChatVideoDownloader9/assets/30146744/cabc0bd8-69e2-49c1-bd01-79d1663aca0f">
 
