@@ -11,6 +11,7 @@ WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微
 6. 长期维护 软件不抛锚 方便易用 操作简单
 7. 接微信视频号业务定制
 8. 每推荐1好友体验使用 赠送推荐人5积分，好友包月充值，推荐人可获得10积分
+9. 拿到视频号原视频下载地址，要在浏览器打开下载
 
 <img width="921" alt="image" src="https://github.com/lap888/WeChatVideoDownloader9/assets/30146744/cabc0bd8-69e2-49c1-bd01-79d1663aca0f">
 
