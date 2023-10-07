@@ -12,6 +12,7 @@ WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微
 7. 接微信视频号业务定制
 9. 拿到视频号原视频下载地址，要在浏览器打开下载 喜欢的请github点个star
 11. *** 新增视频号直播下载服务 直播下载随时看 直播一场下来1个多g
+12. 新增视频号直播回放下载，视频号直播实时下载
 
 <img width="921" alt="image" src="https://github.com/lap888/WeChatVideoDownloader9/assets/30146744/cabc0bd8-69e2-49c1-bd01-79d1663aca0f">
 
