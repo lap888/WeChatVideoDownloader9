@@ -15,9 +15,6 @@ WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微
 12. 新增视频号直播回放下载，视频号直播实时下载
 13. 直播回放，针对不开直播回放的可以实时直播下载
 14. new
-15. new
-16. new
-17. new
 
 ![image](https://github.com/lap888/WeChatVideoDownloader9/assets/30146744/324ef812-6608-4e8b-a984-a4c4260bbd7e)
 
