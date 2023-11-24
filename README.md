@@ -1,5 +1,5 @@
 # WeChatVideoDownloader9  看仔细了再来  别问我怎么下载了！！！
-WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微信视频号 短视频 高清海量下载 最后有用法
+WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微信视频号 短视频 高清海量下载 最后有用法 【强调 只免费体验2次 后续可以通过下载多米生活app获取积分，增加下载次数】
 
 视频号上，您看好的视频，可以任意下载，需要请联系作者 wkc19891 [昵称 多米的生活][可海量无限制下载个视频 看完教程再加好友]
 *加上多米后直接转发视频号视频即可拿到视频号下载地址
@@ -18,7 +18,8 @@ WeChatVideoDownloader9 最新研发 超好用 无需下载小程序看广告 微
 12. 新增视频号直播回放下载，视频号直播实时下载
 13. 直播回放，针对不开直播回放的可以实时直播下载
 14. 全网最好用的微信视频号下载工具
-15. new
+15. 【强调 只免费体验2次 后续可以通过下载多米生活app获取积分，增加下载次数】杜绝无限白嫖。
+16. 多米生活下载地址  (https://wwyk.lanzoub.com/iSwPK1fto0lg)[https://wwyk.lanzoub.com/iSwPK1fto0lg]
 
 ![image](https://github.com/lap888/WeChatVideoDownloader9/assets/30146744/324ef812-6608-4e8b-a984-a4c4260bbd7e)
 
